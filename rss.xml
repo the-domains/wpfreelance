@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[WPFreelance - a Web Design and Development Agency focused on WordPress and Design ]]></title>
         <description><![CDATA[WPFreelance - a Web Design and Development Agency focused on WordPress and Design ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wpfreelance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:37:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 20:15:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wpfreelance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to WordPress!</p>]]></description>
-            <link>undefined7abeca49-3274-4dac-bd69-d525d27e4771/index.html</link>
+            <title><![CDATA[Welcome to WPFreelance.]]></title>
+            <description><![CDATA[<article><h1>Welcome to WPFreelance.</h1><p>Hello, We are a small, yet powerful, experinced and dedicated team of web developer & designers from a old and heritage city, named Bankura.</p></article>]]></description>
+            <link>https://thegrid.ai/wpfreelance/7abeca49-3274-4dac-bd69-d525d27e4771/index.html</link>
             <guid isPermaLink="false">7abeca49-3274-4dac-bd69-d525d27e4771</guid>
-            <pubDate>Mon, 14 Mar 2016 19:36:43 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 20:15:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
