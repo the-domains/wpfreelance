@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WPFreelance - a Web Design and Development Agency focused on WordPress and Design ]]></title>
+        <description><![CDATA[WPFreelance - a Web Design and Development Agency focused on WordPress and Design ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 19:37:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to WordPress!</p>]]></description>
+            <link>undefined7abeca49-3274-4dac-bd69-d525d27e4771/index.html</link>
+            <guid isPermaLink="false">7abeca49-3274-4dac-bd69-d525d27e4771</guid>
+            <pubDate>Mon, 14 Mar 2016 19:36:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
