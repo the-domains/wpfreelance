@@ -1,0 +1,28 @@
+name: wpfreelance
+favicon: null
+layout_spectrum: 0.6166070736944675
+typography_spectrum: 0.1801959713920951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.014087314251810312
+  lightness: 0.9816217212937772
+  saturation: 0.4891269060317427
+  rhythmicContrast: 0.11236686655320227
+purpose: []
